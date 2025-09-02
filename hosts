@@ -1,7 +1,10 @@
 [app]
 mn1
+[jen]
 mn2
 [db]
 mn3
 [control]
-control
+centos
+[win]
+192.168.1.51
